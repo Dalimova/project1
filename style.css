@@ -1,0 +1,30 @@
+.class_div
+{
+    height: 300px;
+    width: 40%;
+    border: 2px solid red;
+    margin: 10% 30%;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+body button
+{
+    width: 60%;
+    height: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* font-weight: bolder; */
+    font-size: 25px;
+    border-color: rgb(51, 12, 88);
+    /* rgb(153, 101, 202); */
+    background-color: rgb(178, 146, 209);
+}
+body select
+{
+    width: 60%;
+    height: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    border-color: rgb(4, 54, 4);
+    background-color: rgb(120, 215, 120);
+    text-align: center;
+}
